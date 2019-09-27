@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pf_react/static/css/main.b100e6da.chunk.css",
+    "main.js": "/pf_react/static/js/main.88dfa7e0.chunk.js",
+    "main.js.map": "/pf_react/static/js/main.88dfa7e0.chunk.js.map",
+    "runtime-main.js": "/pf_react/static/js/runtime-main.d2e2729c.js",
+    "runtime-main.js.map": "/pf_react/static/js/runtime-main.d2e2729c.js.map",
+    "static/js/2.15e16aa8.chunk.js": "/pf_react/static/js/2.15e16aa8.chunk.js",
+    "static/js/2.15e16aa8.chunk.js.map": "/pf_react/static/js/2.15e16aa8.chunk.js.map",
+    "index.html": "/pf_react/index.html",
+    "precache-manifest.60b182f28c6568be145fd21e4d58ad74.js": "/pf_react/precache-manifest.60b182f28c6568be145fd21e4d58ad74.js",
+    "service-worker.js": "/pf_react/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/pf_react/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/pf_react/static/media/logo.25bf045c.svg"
+  }
+}
